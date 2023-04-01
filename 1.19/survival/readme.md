@@ -5,5 +5,5 @@
 <h3>Plik serwer.rar zawiera cały gotowy serwer postawiony na <a href="https://purpurmc.org">purpur</a></h3>
 <p></p>
 <h2>Pomoc</h2>
-<h3>Aby dostać pomoc z paczką zgłoś się na discord <a>NowyAlexx#1585</a></h3>
+<h3>Aby dostać pomoc z paczką zgłoś się na discord <a href="">NowyAlexx#1585</a></h3>
 <h3>Lub na serwer discord <a href="https://dc.tworzeieserwerow.pl">Tworzenie Serwerów</a></h3>
