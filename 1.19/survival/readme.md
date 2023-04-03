@@ -19,7 +19,7 @@
 <h1></h1>
 <h3>1.0.0</h3>
 <h6>02.04.23</h2>
-<h5><a href="https://download1586.mediafire.com/deabnjf97r2g-IOzgIuN2D9UmO6mVro2sifwfrNBnzSXNyLDwqNyrwlSFgeomG4y1BW7mKyO77Bnf2viGbjxdlelWw/151274ckqk8mdvd/survival-1.19.2-essentials-1.0.0.rar">Pobierz essentials.rar - 130MB</a></h5>
+<h5><a href="https://download1586.mediafire.com/njufgzw3ijdgPsfRXWNdDL8--5aLSKVuMswnFG0Xtz8CiUkNPzaw8gT00XeQKOGdQ6XAx2vueaH-JXR0u-8JB5Tn8A/151274ckqk8mdvd/survival-1.19.2-essentials-1.0.0.rar">Pobierz essentials.rar - 130MB</a></h5>
 <h5><a href="https://download1588.mediafire.com/7yjtvr9gyuvg-PYu8mzGXvwP30lCSungLSPgs3793SVW97gWN057vxVIHIB9RvHofe5rsylBjf6Wuey4rC5FjHDWiQ/wuv19kcmly0sq8c/survival-1.19.2-serwer-1.0.0.rar">Pobierz serwer.rar - 322MB</a></h5>
 <h3>Nowości</h3>
 <h4>Dodano paczkę na github.</h4>
