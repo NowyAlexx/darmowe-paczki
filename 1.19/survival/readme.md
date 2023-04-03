@@ -12,7 +12,8 @@
 <h2>Aktualizacje</h2>
 <h3>1.0.1</h3>
 <h6>03.04.23</h2>
-<h5>Dzisiaj zostanie dodany przycisk, trwają prace nad tą aktualizacją.</h5>
+<h5><a href="https://download1493.mediafire.com/02uso5659hsgKvJLrYxM3lU-myaFePGTOR1uHuo_Mf9tDa4dTC_83xHOX7jNiOepwOve5Ev0JJ4GrnF_92IcSCSsZg/rkq82sy89uh2f95/survival-1.19.2-essentials-1.0.1.rar">Pobierz essentials.rar - 130MB</a></h5>
+<h5><a href="">Pobierz serwer.rar - 322MB</a></h5>
 <h3>Nowości</h3>
 <h4>Naprawiono /home (brak możliwości tworzenia extra domów bez permisji)</h4>
 <h1></h1>
