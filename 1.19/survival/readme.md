@@ -1,5 +1,6 @@
 <h1>Paczka survival 1.19.2</h1>
 <h4>Stworzona przez <a href="https://github.com/NowyAlexx">NowyAlexx</a></h2>
+<h1>Linki nie działają, zgłoś się na dc NowyAlexx#1585</h1>
 <p>‎‎‎‎‎‎‎‎ㅤ</p>
 <h2>Podstawowe informacje</h2>
 <h3>Plik essentials.rar zawiera tylko światy, spigot.yml i folder plugins.</h3>
