@@ -13,7 +13,7 @@
 <h2>Aktualizacje</h2>
 
 <h3>1.0.0</h3>
-<h6>02.04.23</h2>
+<h6>03.08.23</h2>
 <h5><a href="">Pobierz essentials.rar - 130MB</a></h5>
 <h5><a href="">Pobierz serwer.rar - 322MB</a></h5>
 <h3>Nowości</h3>
